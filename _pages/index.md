@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[folder](file:///D:\Facultad\obsidian\Gaspargarden\_notes)
+  Take a look at <span style="font-weight: bold">[[transcipcion]]<
 
 </span> to get started on your exploration.
 </p>
